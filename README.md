@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arincdemir
 - 👀 I’m interested in game development and various experiments with coding.
 - 🌱 I’m currently learning computer science at the university.
-- 💞️ I’m looking to collaborate on ?dunno?
+- 💞️ I’m looking to collaborate on anything that I find interesting.
 - 📫 How to reach me: arinc.demir2002@gmail.com
 
 <!---
